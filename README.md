@@ -228,7 +228,7 @@ plt.axis("off")
 plt.show()
 ```
 ## Output:
-i) Read and Display an Image.
+- **i) Read and Display an Image.**
 <img width="449" height="418" alt="Screenshot 2026-08-06 135448" src="https://github.com/user-attachments/assets/bf164db5-e380-4e40-a35c-8db724dcda6f" />
 <img width="426" height="418" alt="Screenshot 2026-08-06 135455" src="https://github.com/user-attachments/assets/3df885a6-8245-4b08-b675-a9f8e5521824" />
 <img width="442" height="425" alt="Screenshot 2026-08-06 135501" src="https://github.com/user-attachments/assets/a34b2408-ab46-4742-9ef7-1cc84dc8483c" />
@@ -236,15 +236,15 @@ i) Read and Display an Image.
 <img width="421" height="416" alt="Screenshot 2026-08-06 135522" src="https://github.com/user-attachments/assets/fa773f0b-7381-41ba-9619-e3031fedbeaa" />
 
 
-ii) Adjust Image Brightness.
+- **ii) Adjust Image Brightness.**
 <img width="566" height="458" alt="Screenshot 2026-08-06 135743" src="https://github.com/user-attachments/assets/d424a309-f7f5-4334-9759-0c431649a7b5" />
 <img width="449" height="407" alt="Screenshot 2026-08-06 135749" src="https://github.com/user-attachments/assets/15e007ea-aea3-4010-aa83-fddba0bd23c1" />
 <img width="385" height="423" alt="Screenshot 2026-08-06 140029" src="https://github.com/user-attachments/assets/75be785a-4a35-45a1-809f-76941dd5952a" />
 
-iii) Modify Image Contrast.
+- **iii) Modify Image Contrast.**
 <img width="394" height="428" alt="Screenshot 2026-08-06 135757" src="https://github.com/user-attachments/assets/b0a73489-25ff-4f5c-ba6f-7627406b4f56" />
 
-iv) Generate Third Image Using Bitwise Operations.
+- **iv) Generate Third Image Using Bitwise Operations.**
 <img width="412" height="426" alt="Screenshot 2026-08-06 140101" src="https://github.com/user-attachments/assets/b0678370-87e9-4cd1-894a-95a2f52b1089" />
 <img width="411" height="423" alt="Screenshot 2026-08-06 140108" src="https://github.com/user-attachments/assets/6be143f4-6e63-4ea7-bc56-dbd361377a0b" />
 <img width="412" height="430" alt="Screenshot 2026-08-06 140114" src="https://github.com/user-attachments/assets/c311c476-bf6e-402b-aba4-108d167dc0d4" />
